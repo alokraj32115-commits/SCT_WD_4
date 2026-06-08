@@ -29,7 +29,7 @@ Author
 Skillcraft Technology Internhip Task 04 - To Do Web Aap(SCT_WD_4)
 Email:alokraj32115@gmail.com
 GitHub:https://github.com/alokraj32115-commits/SCT_WD4
-live project:
+live project: https://alokraj32115-commits.github.io/SCT_WD_4/
 Linkedin:www.linkedin.com/in/alok-raj-7bb755408
 
 
