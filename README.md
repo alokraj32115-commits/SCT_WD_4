@@ -1,7 +1,6 @@
 #Project title
+
  To-Do Web App
-
-
 # Project Overview
 A simple and responsive To-Do Web Application built using HTML, CSS, and JavaScript. Users can add, complete, and delete tasks. Tasks are saved in the browser using Local Storage.
 
